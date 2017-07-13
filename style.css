@@ -1,0 +1,46 @@
+* {
+  font-size: 100%;
+  font-weight: 200;
+  font-family: Helvetica, 'Time New Roman', sans-serif;
+  line-height: 120%;
+  background-color: #323232;
+}
+head {
+  background-color: #232323:
+}
+body {
+  color: #ffffff;
+}
+h1, h2, h3, h4, nav, a {
+  text-align: center;
+}
+nav, a {
+  font-size: 110%;
+  color: #DAA;
+  display: inline;
+  border: 3px 8px 3px 8px solid #888;
+  background-color: #990;
+}
+h1 {
+  font-size: 250%;
+  color: #56AA56;
+}
+h2 {
+  font-size: 200%;
+  color: ;
+}
+h3 {
+  font-size: 150%;
+  color: ;
+}
+h4 {
+  font-size: 125%;
+  color: ;
+}
+.logo, nav {
+  display: inline;
+  background-color: #990;
+}
+p{
+  text-align: left;
+}
